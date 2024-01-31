@@ -15,7 +15,7 @@ Eliminate your duplicates: with our Auto Merge, Auto convert, Mass Merge, Mass d
 
 Clean your Salesforce's database with Dedup-Manager - native tool:
 
-**Main Features:**
+# Main Features:
 
 ✔ Mass Merge: Merge multiple records into multiple-uniques, keep key data and related information (combine / copy if empty / copy to field).
 
@@ -53,13 +53,13 @@ Clean your Salesforce's database with Dedup-Manager - native tool:
 ✔ Remove duplicate attachments (save space)
 
 
-**Install**
+# How to Install:
 
 Use this link to install the app's code: [https://www.zaapit.com/page/Install-apps](https://www.zaapit.com/page/Install-apps)
 
 Video Guides -  [zaapit video guides](http://www.zaapit.com/page/Videos)
 
-**More screenshots**
+# More screenshots:
 
 ![Overview tab](/screenshots/dedup-global-overview.jpg "Overview tab")
 ![Import](/screenshots/advanced-import36.jpg.jpg "import")
