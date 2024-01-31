@@ -1,4 +1,4 @@
-# ZaapIT Dedup Manager™ for Salesforce | Eliminate duplicates with ease & improve data
+# Dedup-Manager™ for Salesforce | Eliminate duplicates with ease & improve data by ZaapIT
 
 Eliminate your duplicates: with our Auto Merge, Auto convert, Mass Merge, Mass delete, Mass Convert. Works with native and custom objects. With cross objects duplicate detection, advanced import. Combine duplicated data like never before. 100% native 
 
