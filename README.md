@@ -4,6 +4,7 @@ Eliminate your duplicates: with our Auto Merge, Auto convert, Mass Merge, Mass d
 
 
 **Highlights** 
+
 1. Smart data cleansing: Auto Merge [AI], Auto Convert [AI], Mass Merge any object, mass convert leads, merge jobs, automatic convert, mass update, mass delete. Our merge & convert options merge related list & data with field-combine-rules / strategy.
 
 2. Smart deduplication reports: find duplicate records & eliminate en masse, work with leads, accounts, contacts / any objects. Mass Merge with master selection & field-merge-strategy rules. Auto duplicate check / catch /clean /search (aka Data management).
@@ -39,17 +40,33 @@ Clean your Salesforce's database with Dedup-Manager - native tool:
 ✔ Search, sorts, filters, groupings
 
 
+**Main De-duplication Reports /Tabs:**
 
-Main De-duplication Reports /Tabs:
 ✔ Jobs - custom dedupe / import jobs / daily - hourly jobs / findids
+
 ✔ Find matching records - AI based de-duplication report
+
 ✔ Similar leads / contacts report - same name / email
+
 ✔ Leads with a Matching Contact or Account: same name/ email / company & account.name
+
 ✔ Remove duplicate attachments (save space)
+
+
+**Install**
+
+Use this link to install the app's code: [https://www.zaapit.com/page/Install-apps](https://www.zaapit.com/page/Install-apps)
 
 Video Guides -  [zaapit video guides](http://www.zaapit.com/page/Videos)
 
+**More screenshots**
 
+![Overview tab](/screenshots/dedup-global-overview.jpg "Overview tab")
+![Import](/screenshots/advanced-import36.jpg.jpg "import")
+![Smart lists](/screenshots/smart-tables-lightning2v1.jpg "Smart lists")
+![Smart tabs overview](/screenshots/manage_data_hero_laptop_smart_tables-feb-2023-v3_1200.jpg "Smart tabs overview")
+![Smart Mass Update](/screenshots/mass_update_26022023.jpg "Smart Mass Update")
+![Smart Mass Update](/screenshots/inline_edit_for_related_list_sep_2019.jpg "Smart Related Lists")
+![Smart tabs inline edit](/screenshots/smart-tables-lightning2v1.jpg "Smart tabs inline edit")
 
-
-App made by [ZaapIT](http://www.zaapit.com)
+Mmade by [ZaapIT LTD](http://www.zaapit.com)
