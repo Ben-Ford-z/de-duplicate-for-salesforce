@@ -10,7 +10,7 @@ Eliminate your duplicates: with our Auto Merge, Auto convert, Mass Merge, Mass d
 
 3. Cross object duplication cleansing: leads & contact, leads & accounts, custom object & custom object (multiple-field support) & simple duplicate detection. Mass Merge (multiple to multiple unique) of leads / contacts / accounts. Works with database.com
 
-![ZaapiT for Salesforce - deduplicate your records!](/screenshots/knaban_hero_2023.jpg "Kanban")
+![ZaapiT for Salesforce - deduplicate your records!](/screenshots/merge_job_custom_dedupe.jpg "Salesforce native Data Cleansing app")
 
 Clean your Salesforce's database with Dedup-Manager - native tool:
 
