@@ -4,7 +4,7 @@ Eliminate your duplicates: with our Auto Merge, Auto convert, Mass Merge, Mass d
 
 
 **Highlights** 
-Smart data cleansing: Auto Merge [AI], Auto Convert [AI], Mass Merge any object, mass convert leads, merge jobs, automatic convert, mass update, mass delete. Our merge & convert options merge related list & data with field-combine-rules I strategy. 
+Smart data cleansing: Auto Merge [AI], Auto Convert [AI], Mass Merge any object, mass convert leads, merge jobs, automatic convert, mass update, mass delete. Our merge & convert options merge related list & data with field-combine-rules strategy. 
 
 
 **Merge duplicates with ease: auto merge /  convert /  delete + data management **
