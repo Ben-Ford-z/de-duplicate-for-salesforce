@@ -19,7 +19,7 @@ Clean your Salesforce's database with Dedup-Manager - native tool:
 
 # Main Features:
 
-✔ Mass Merge: Merge multiple records into multiple-uniques, keep key data and related information (combine / copy if empty / copy to field).
+✔ Mass Merge: Merge multiple records into multiple-uniques, keep key data and related information (combine / copy if empty / copy to field). Dedupe dupes.
 
 ✔ Auto Merge & Merge Jobs: run daily / hourly / automatically
 
