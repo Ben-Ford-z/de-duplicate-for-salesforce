@@ -71,4 +71,4 @@ Video Guides -  [zaapit video guides](http://www.zaapit.com/page/Videos)
 ![Smart Mass Update](/screenshots/inline_edit_for_related_list_sep_2019.jpg "Smart Related Lists")
 ![Smart tabs inline edit](/screenshots/smart-tables-lightning2v1.jpg "Smart tabs inline edit")
 
-Mmade by [ZaapIT LTD](http://www.zaapit.com)
+Made by [ZaapIT LTD](http://www.zaapit.com)
