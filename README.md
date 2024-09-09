@@ -64,7 +64,7 @@ Video Guides -  [zaapit video guides](http://www.zaapit.com/page/Videos)
 # More screenshots:
 
 ![Overview tab](/screenshots/dedup-global-overview.jpg "Overview tab")
-![Import](/screenshots/advanced-import36.jpg.jpg "import")
+![Import](/screenshots/advanced-import36.jpg "import")
 ![Smart lists](/screenshots/smart-tables-lightning2v1.jpg "Smart lists")
 ![Smart tabs overview](/screenshots/manage_data_hero_laptop_smart_tables-feb-2023-v3_1200.jpg "Smart tabs overview")
 ![Smart Mass Update](/screenshots/mass_update_26022023.jpg "Smart Mass Update")
