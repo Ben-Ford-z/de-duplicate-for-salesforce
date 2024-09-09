@@ -1,4 +1,4 @@
-# Dedup-Manager™ for Salesforce | Eliminate duplicates with ease & improve data by ZaapIT 
+# Dedup-Manager™ for Salesforce | Eliminate duplicates with ease & improve your data with ZaapIT 
 
 Eliminate your duplicates: with our Auto Merge, Auto convert, Mass Merge, Mass delete, Mass Convert. Works with native and custom objects. With cross objects duplicate detection, advanced import. Combine duplicated data like never before. 100% native Data Cleansing!
 
@@ -27,7 +27,7 @@ Clean your Salesforce's database with Dedup-Manager - native tool:
 
 ✔ Selective-Merge
 
-✔ Mass Actions: Update, Delete, Clone, create, Merge, convert, Inline Edit, ETL, Mass convert and merge (remove cross object duplicates )
+✔ Mass Actions: Update, Delete, Clone, create, Merge, convert, Inline Edit, ETL, Mass convert and merge (remove cross object duplicates ), bulk updates.
 
 ✔ Auto lead conversion - auto convert based on matched record or condition
 
